@@ -40,10 +40,17 @@ header.carousel .products {
     height: 100%;
     background-position: center;
     background-size: cover;
-    background-image: url('products.jpg');
+    background-image: url('home.jpg');
 }
 
 header.carousel .services {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-image: url('pest.jpg');
+}
+header.carousel .portfolio {
     width: 100%;
     height: 100%;
     background-position: center;
